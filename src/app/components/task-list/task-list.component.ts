@@ -1,4 +1,4 @@
-import { ITask, Levels } from './../../models/Task.interface';
+import { ITask, Levels } from '../../models/interfaces/Task.interface';
 import { Component, OnInit} from '@angular/core';
 
 @Component({

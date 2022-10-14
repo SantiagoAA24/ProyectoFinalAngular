@@ -1,4 +1,4 @@
-import { ITask } from './../../models/Task.interface';
+import { ITask } from '../../models/interfaces/Task.interface';
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
 @Component({
